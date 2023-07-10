@@ -1,7 +1,7 @@
 [
-{"url":"100.wav","type":"audio","bank":"troste","n":0},
-{"url":"101.wav","type":"audio","bank":"pipipi","n":0},
-{"url":"102.wav","type":"audio","bank":"feli","n":0},
-{"url":"103.wav","type":"audio","bank":"enojao","n":0}
-{"url":"104.wav","type":"audio","bank":"amsioso","n":0}
+ {"url":"100.wav","type":"audio","bank":"troste","n":0},
+ {"url":"101.wav","type":"audio","bank":"pipipi","n":0},
+ {"url":"102.wav","type":"audio","bank":"feli","n":0},
+ {"url":"103.wav","type":"audio","bank":"enojao","n":0}
+ {"url":"104.wav","type":"audio","bank":"amsioso","n":0}
 ]
